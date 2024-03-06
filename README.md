@@ -30,15 +30,6 @@ This script automates the process of sending emails through the Office 365 API u
 - Automated email sending with adjustable delays to prevent rate limiting.
 - Generates a report (`email_report.txt`) detailing the outcomes of the email dispatch process.
 
-## Example
-```python
-from o365_email_sender import EmailSenderO365
-
-sender = EmailSenderO365(client_id, client_secret, token_file_path, token_filename, email_template_file, csv_file)
-subject, body = sender.read_template()
-emails_to_send = sender.read_emails()
-sender.send_email(emails_to_send, subject, body, test_mode=False)
-```
 ## Contributing
 Contributions to improve or extend the functionality are highly encouraged. Please fork the repository and submit pull requests for any proposed changes or fixes.
 
