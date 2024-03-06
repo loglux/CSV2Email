@@ -1,0 +1,18 @@
+SUBJECT: Legal Services Proposal Inquiry
+
+BODY:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Legal Services Proposal Inquiry</title>
+</head>
+<body>
+    <p>Dear {company_name},</p>
+    <p>I hope this email finds you well. My name is [Your Name], and I am reaching out to inquire about your firm's expertise in handling [specific legal matter].</p>
+    <p>[Briefly describe the case or legal issue you need assistance with.]</p>
+    <p>If your firm has experience in similar cases or if you believe this falls within your practice areas, I would appreciate the opportunity to discuss this further. Could we schedule a call or meeting at your earliest convenience?</p>
+    <p>Thank you for your time, and I look forward to hearing from you soon.</p>
+    <p class="signature">Best regards,<br>[Your Name]<br>[Your Contact Information]</p>
+</body>
+</html>
