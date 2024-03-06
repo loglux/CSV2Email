@@ -1,7 +1,7 @@
 # Office 365 Email Automation
 
 ## Project Overview
-This project automates the process of sending emails through the Office 365 API, using a Python script (`o365_email_sender.py`). It reads recipient details from a CSV file (`companies_info.csv`) and utilises an HTML email template (`email_template.txt`) to craft email content. Aimed at automating email outreach, especially for legal service enquiries, it serves as a robust tool for both businesses and individuals.
+This script automates the process of sending emails through the Office 365 API using a Python script (`o365_email_sender.py`). It reads recipient details from a CSV file (`companies_info.csv`) and uses an HTML email template (`email_template.txt`) to craft content. It is aimed at automating email outreach and is a robust tool for businesses and individuals.
 
 ## Prerequisites
 - Python 3.x
